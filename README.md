@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://github.com/jatinRSP/jatinRSP/blob/main/GithubStats.png" height="60">
+<img src="https://github.com/jatinRSP/jatinRSP/blob/main/GithubStats1.png" height="60">
 
 
 [![](https://raw.githubusercontent.com/jatinRSP/githubStats/master/profile-summary-card-output/outrun/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
